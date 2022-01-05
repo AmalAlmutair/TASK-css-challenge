@@ -1,9 +1,11 @@
 Body{
+    
     background-image: url(/assets/pokemon-bg.jpg);
 }
 
 .center {
-    display: flex;
+  margin-left: 150px;  
+  display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -17,4 +19,5 @@ Body{
     border-radius: 30px;  
     padding: 30px;
     margin: 30px;}
+    te
   
