@@ -1,7 +1,7 @@
 /* Add your code in each class */
 body {background-color: rgb(29, 7, 29);
 }
-.container {
+
 }
 .movie-card {
   
@@ -50,7 +50,7 @@ body {background-color: rgb(29, 7, 29);
     This gradient was made by this website https://cssgradient.io/
 */
   position: absolute;
-  height: 300px;
+  height: 100%;
   width: 300px;
  
  
