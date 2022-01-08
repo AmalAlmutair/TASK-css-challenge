@@ -24,6 +24,7 @@ body {background-color: rgb(29, 7, 29);
 .movie-image { 
  
  object-fit: cover;
+ object-position: top;
  position: absolute;
  height: 300px;
  width: 300px;
